@@ -11,7 +11,6 @@ A flutter based application that allows users to scan their retina with the came
 ## INSTALLATION
 
 ```bash
-git clone https://github.com/AmanKRoy/pocket_ophthalmologist
 cd pocket_ophthalmologist
 flutter pub get
 ```
@@ -22,11 +21,6 @@ flutter pub get
 
 
 
-
-
-| Splash Screen | SignIn Page | SignUp Page |
-| --- | --- | --- |
-|  <img src="./assets/Splah.png" alt="Screenshot 1" height=450>  | <img src="./assets/Login.png" alt="Screenshot 2" height=450> | <img src="./assets/Register.png" alt="Screenshot 3" height=450> |
 
 
 ## CREDITS
